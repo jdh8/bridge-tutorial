@@ -5,6 +5,9 @@ language = "zh-TW"
 
 [output.html]
 additional-css = ["style.css"]
+site-url = "https://jdh8.github.io/bridge-tutorial/"
+git-repository-url = "https://github.com/jdh8/bridge-tutorial"
+edit-url-template = "https://github.com/jdh8/bridge-tutorial/edit/main/{path}"
 
 [preprocessor.replace]
 
