@@ -12,6 +12,20 @@ html {
 	hyphens: auto;
 }
 
+/* 著重號 for CJK emphasis: no fake oblique, Latin keeps real italics */
+em {
+	font-synthesis: weight;
+	text-emphasis: filled;
+	text-emphasis-position: under right;
+}
+
+/* Room for the dots: below 1.75 they push their line down in Firefox */
+.content p,
+.content ol,
+.content ul {
+	line-height: 1.75;
+}
+
 /* Tables */
 th {
 	text-align: left;
