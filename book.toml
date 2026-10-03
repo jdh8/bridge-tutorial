@@ -1,0 +1,15 @@
+[book]
+authors = ["Chen-Pang He"]
+title = "橋牌入門：從規則到二蓋一"
+language = "zh-TW"
+
+[output.html]
+additional-css = ["style.css"]
+
+[preprocessor.replace]
+
+[preprocessor.replace.list]
+"♠" = "<span class='♠'>♠</span>"
+"♥" = "<span class='♥'>♥</span>"
+"♦" = "<span class='♦'>♦</span>"
+"♣" = "<span class='♣'>♣</span>"
