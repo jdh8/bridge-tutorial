@@ -22,6 +22,8 @@
 | 莊家 | declarer | 主打合約的人 |
 | 夢家 | dummy | 莊家的同伴，攤牌 |
 | 防家 | defender | 莊家的敵方 |
+| 左敵 | left-hand opponent (LHO) | 坐在你左手邊的敵方 |
+| 右敵 | right-hand opponent (RHO) | 坐在你右手邊的敵方，叫完就輪到你 |
 | 做成 | make | 吃到合約要求的磴數 |
 | 倒約 | go down | 沒吃到合約要求的磴數 |
 | 超磴 | overtrick | 超過合約的磴 |
