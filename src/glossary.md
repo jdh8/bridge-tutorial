@@ -31,6 +31,7 @@
 | 大滿貫 | grand slam | 七線合約 |
 | 身價 | vulnerability | 影響獎分與罰分的狀態 |
 | 複式橋牌 | duplicate bridge | 同一副牌多桌重複打並比較成績 |
+| 雙夢家 | double dummy | 攤開四手牌，假設每個人都打最好的牌 |
 | 大牌點 | high-card points (HCP) | A = 4、K = 3、Q = 2、J = 1 |
 | 牌型 | shape, distribution | 四門花色的張數 |
 | 平均牌型 | balanced hand | 4–3–3–3、4–4–3–2、5–3–3–2 |

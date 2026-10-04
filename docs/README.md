@@ -6,6 +6,6 @@
 - [強牌 2♣](strong-2c.md)：照點數分段、不用 Birthright 和雙重負性的 2♣ 結構，附牌型統計。
 - [第四部的數字](part4.md)：BWS 沒有給數字、本書自己選的範圍，多數還沒定案。
 - [術語](terminology.md)：台灣的用語、哪些約定保留英文、哪些譯名還沒查證。
-- [資料來源](sources.md)：BWS 原文和 ../pons 的雙明手統計。
+- [資料來源](sources.md)：BWS 原文和 ../pons 的雙夢家統計。
 
 排版規則和書一樣，見 [CLAUDE.md](../CLAUDE.md)。
