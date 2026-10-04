@@ -18,7 +18,7 @@
 | `major-game-threshold.md` | 高花成局的門檻 |
 | `minor-game-threshold.md` | 低花成局的門檻 |
 | `notrump-slam.md` | 無王滿貫 |
-| `suit-slam.md` | 有王滿貫 |
+| `suit-slam.md` | 王牌滿貫 |
 | `nltc.md`、`zar.md`、`binky-points.md` | 其他的牌力評估法 |
 
 每一篇都按牌力尺度（大牌點、只有夢家算支持點、兩手都算支持點）和王牌張數，列出損益兩平的點數。
