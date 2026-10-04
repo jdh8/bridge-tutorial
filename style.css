@@ -31,6 +31,12 @@ th {
 	text-align: left;
 }
 
+/* mdBook pads 20px, which wraps the five-column exercise tables */
+table td,
+table thead th {
+	padding: 3px 12px;
+}
+
 .table-wrapper {
 	margin-top: 1em;
 	margin-bottom: 1em;
