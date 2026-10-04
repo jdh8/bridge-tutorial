@@ -41,6 +41,7 @@
 | 再叫 | rebid | 同一人的第二次叫牌 |
 | 自然叫 | natural bid | 意思和字面相同的叫品 |
 | 特約叫 | convention | 意思另有約定的叫品 |
+| 轉換叫 | transfer | 叫低一級的花色，請同伴叫出你的長門 |
 | 止叫 | sign-off | 請同伴派司 |
 | 邀請 | invitational | 請同伴高限再叫 |
 | 迫叫 | forcing | 同伴不可派司 |
