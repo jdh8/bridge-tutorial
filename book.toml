@@ -16,3 +16,12 @@ edit-url-template = "https://github.com/jdh8/bridge-tutorial/edit/main/{path}"
 "♥" = "<span class='♥'>♥</span>"
 "♦" = "<span class='♦'>♦</span>"
 "♣" = "<span class='♣'>♣</span>"
+
+[preprocessor.abbr]
+
+[preprocessor.abbr.list]
+BTU = "台大橋藝社"
+BWS = "Bridge World Standard 2017"
+GF = "game forcing（迫叫成局）"
+HCP = "high-card points（大牌點）"
+RKCB = "Roman Key-Card Blackwood"

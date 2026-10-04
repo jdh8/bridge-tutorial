@@ -24,6 +24,10 @@ jobs:
         uses: taiki-e/cache-cargo-install-action@v3
         with:
           tool: mdbook
+      - name: Install mdbook-abbr
+        uses: taiki-e/cache-cargo-install-action@v3
+        with:
+          tool: mdbook-abbr
       - name: Install mdbook-replace
         uses: taiki-e/cache-cargo-install-action@v3
         with:
