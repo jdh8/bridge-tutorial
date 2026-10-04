@@ -39,6 +39,8 @@
 | 開叫 | opening bid | 第一個叫品 |
 | 答叫 | response | 開叫者同伴的叫品 |
 | 再叫 | rebid | 同一人的第二次叫牌 |
+| 加叫 | raise | 叫同伴叫過的花色 |
+| 支持點 | support points | 加叫時，大牌點加上短門點 |
 | 自然叫 | natural bid | 意思和字面相同的叫品 |
 | 特約叫 | convention | 意思另有約定的叫品 |
 | 轉換叫 | transfer | 叫低一級的花色，請同伴叫出你的長門 |
