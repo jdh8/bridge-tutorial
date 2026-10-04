@@ -15,6 +15,10 @@ mdbook serve --open
 
 中西文排版規則寫在 [CLAUDE.md](CLAUDE.md)。原始檔一段一行；寫作時斷了行，就跑 `python3 cjk.py src/*.md` 把換行接起來，再檢查 diff。
 
+## 設計筆記
+
+制度為什麼這樣取捨、和 BWS 差在哪裡、哪些數字還沒定案，寫在 [docs/](docs/README.md)。這些內容不會 build 進書裡。
+
 ## 授權
 
 [MIT](LICENSE)
