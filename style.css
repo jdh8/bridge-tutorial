@@ -27,10 +27,6 @@ em {
 }
 
 /* Tables */
-th {
-	text-align: left;
-}
-
 /* mdBook pads 20px, which wraps the five-column exercise tables */
 table td,
 table thead th {
