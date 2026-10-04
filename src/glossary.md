@@ -52,3 +52,5 @@
 | 迫叫成局 | game forcing (GF) | 成局之前雙方都不派司 |
 | 二蓋一 | two-over-one (2/1) | 二線新花答叫為迫叫成局的架構 |
 | 反序加叫 | inverted minor raise | 低花簡單加叫是強牌，跳加叫是弱牌 |
+| 雙向問叫 | two-way checkback | 開叫者再叫 1NT 之後，2♣ 走邀請，2♦ 迫叫成局 |
+| 第四門迫叫 | fourth suit forcing | 叫第四門花色，迫叫成局，和那門花色無關 |
