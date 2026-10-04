@@ -29,7 +29,7 @@
 
 - [為什麼需要二蓋一](two-over-one.md)
 - [半迫叫 1NT](semiforcing.md)
-- [二蓋一之後]()
+- [二蓋一之後](game-force.md)
 - [高花加叫]()
 - [強牌開叫]()
 - [2NT 開叫之後](2nt.md)
