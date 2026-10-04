@@ -49,3 +49,4 @@
 | 迫叫 | forcing | 同伴不可派司 |
 | 迫叫成局 | game forcing (GF) | 成局之前雙方都不派司 |
 | 二蓋一 | two-over-one (2/1) | 二線新花答叫為迫叫成局的架構 |
+| 反序加叫 | inverted minor raise | 低花簡單加叫是強牌，跳加叫是弱牌 |
