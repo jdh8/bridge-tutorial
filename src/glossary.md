@@ -54,3 +54,5 @@
 | 反序加叫 | inverted minor raise | 低花簡單加叫是強牌，跳加叫是弱牌 |
 | 雙向問叫 | two-way checkback | 開叫者再叫 1NT 之後，2♣ 走邀請，2♦ 迫叫成局 |
 | 第四門迫叫 | fourth suit forcing | 叫第四門花色，迫叫成局，和那門花色無關 |
+| 慢速到達 | slow arrival | 迫叫成局之後在最便宜的線位叫，直接叫成局表示沒有滿貫興趣 |
+| 弱二 | weak two-bid | 不到開叫牌力、一門長套的 2♦、2♥、2♠ 開叫 |
