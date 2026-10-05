@@ -43,8 +43,8 @@
 
 - [蓋叫](overcall.md)
 - [迫伴賭倍](takeout.md)
+- [竄叫](preempt.md)
 - [敵方蓋叫之後](interference.md)
-- [竄叫]()
 - [平衡叫]()
 
 # 實戰
