@@ -22,6 +22,10 @@ Bridge Winners 的得票率要登入才看得到。留言不必登入：文章�
 
 Lawrence 和 Bergen 的打法目前只查到二手的整理，沒有對照原書。
 
+## 歷史
+
+Bryant McCampbell 的《Auction Tactics》（Dodd, Mead，1915）在 archive.org 有全文和掃描：<https://archive.org/details/auctiontactics00mcca>，1917 年的印本是 `auctiontactics00mcca_0`。純文字在 `https://archive.org/download/<id>/<id>_djvu.txt`，單頁掃描在 `https://archive.org/download/<id>/page/n<leaf>_w1000.jpg`，書上的第 62 頁是 leaf 65。迫伴賭倍的考證見[第五部的數字](part5.md#歷史)。
+
 ## 雙夢家統計
 
 作者自己的雙夢家統計（大約一億副牌）寫在 `../pons/docs/`：

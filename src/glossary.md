@@ -71,3 +71,6 @@
 | 競叫 | competitive bidding | 雙方都叫牌 |
 | 蓋叫 | overcall | 敵方開叫之後叫出花色或無王 |
 | 扣叫 | cue-bid | 叫敵方叫過的花色，和那門無關，例如強的加叫 |
+| 處罰性賭倍 | penalty double | 字面意思的賭倍：認為敵方做不成合約 |
+| 迫伴賭倍 | takeout double | 請同伴在未叫的花色裡選一門叫出來的賭倍 |
+| 處罰性派司 | penalty pass | 同伴迫伴賭倍之後派司，把它變成處罰 |
