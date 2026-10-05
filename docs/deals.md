@@ -35,6 +35,7 @@ class 的設計：
 - 換的是變數，不是 `th` 的背景。mdbook 的 `thead tr` 有一圈同色的 1px 邊框，只改 `th` 會留下暖褐的框線。
 - 變數管的是整張表，不分座位，所以無身價不設 `nv-ns`、`nv-ew`，一個 `deal` 就夠。無身價就是沒有 `vul-*`，也不會寫出 `vul-ns nv-ns` 這種矛盾的組合。
 - 原本的 `vul-both` 拆成 `vul-ns vul-ew`，兩個 class 各管自己的兩欄。
+- 發牌者在表頭畫圈，`deal` 再加 `dealer-n`、`dealer-e`、`dealer-s` 或 `dealer-w`。圈是 `th` 的 `radial-gradient` 背景圖，顏色用 `currentColor`，紅底上自動變白圈；不必改表頭的 Markdown。和 `vul-*` 的規則都用 `background`，所以發牌者的規則只設 `background-image`，放在後面，才不會蓋掉紅底。叫牌過程的表頭也會圈，提醒從哪一家開始叫。
 
 ## 牌是設計出來的
 

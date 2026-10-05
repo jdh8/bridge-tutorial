@@ -14,7 +14,7 @@
 
 四個人一起練更好：照著表格把牌發出來，一人拿一家，真的叫一遍，叫完再一起對答案。
 
-表頭紅底的那一對有身價，和牌套上的紅色標示一樣。
+表頭圈起來的是發牌的人；紅底的那一對有身價，和牌套上的紅色標示一樣。
 
 答案照本書的制度。你的叫品和答案不同時，先讀解說連結的章節。
 
@@ -22,7 +22,7 @@
 
 北發牌，雙方無身價。
 
-<div class="deal">
+<div class="deal dealer-n">
 
 | 西 | 北 | 東 | 南 |
 |---|---|---|---|
@@ -54,7 +54,7 @@
 
 東發牌，南北有身價。
 
-<div class="deal vul-ns">
+<div class="deal dealer-e vul-ns">
 
 | 西 | 北 | 東 | 南 |
 |---|---|---|---|
@@ -89,7 +89,7 @@
 
 南發牌，東西有身價。
 
-<div class="deal vul-ew">
+<div class="deal dealer-s vul-ew">
 
 | 西 | 北 | 東 | 南 |
 |---|---|---|---|
@@ -124,7 +124,7 @@
 
 西發牌，雙方有身價。
 
-<div class="deal vul-ns vul-ew">
+<div class="deal dealer-w vul-ns vul-ew">
 
 | 西 | 北 | 東 | 南 |
 |---|---|---|---|
@@ -158,7 +158,7 @@
 
 北發牌，南北有身價。
 
-<div class="deal vul-ns">
+<div class="deal dealer-n vul-ns">
 
 | 西 | 北 | 東 | 南 |
 |---|---|---|---|
@@ -190,7 +190,7 @@
 
 東發牌，東西有身價。
 
-<div class="deal vul-ew">
+<div class="deal dealer-e vul-ew">
 
 | 西 | 北 | 東 | 南 |
 |---|---|---|---|
@@ -226,7 +226,7 @@
 
 南發牌，雙方有身價。
 
-<div class="deal vul-ns vul-ew">
+<div class="deal dealer-s vul-ns vul-ew">
 
 | 西 | 北 | 東 | 南 |
 |---|---|---|---|
@@ -259,7 +259,7 @@
 
 西發牌，雙方無身價。
 
-<div class="deal">
+<div class="deal dealer-w">
 
 | 西 | 北 | 東 | 南 |
 |---|---|---|---|
@@ -284,7 +284,7 @@
 
 北發牌，東西有身價。
 
-<div class="deal vul-ew">
+<div class="deal dealer-n vul-ew">
 
 | 西 | 北 | 東 | 南 |
 |---|---|---|---|
@@ -319,7 +319,7 @@
 
 東發牌，雙方有身價。
 
-<div class="deal vul-ns vul-ew">
+<div class="deal dealer-e vul-ns vul-ew">
 
 | 西 | 北 | 東 | 南 |
 |---|---|---|---|
@@ -351,7 +351,7 @@
 
 南發牌，雙方無身價。
 
-<div class="deal">
+<div class="deal dealer-s">
 
 | 西 | 北 | 東 | 南 |
 |---|---|---|---|
@@ -388,7 +388,7 @@
 
 西發牌，南北有身價。
 
-<div class="deal vul-ns">
+<div class="deal dealer-w vul-ns">
 
 | 西 | 北 | 東 | 南 |
 |---|---|---|---|
@@ -420,7 +420,7 @@
 
 北發牌，雙方有身價。
 
-<div class="deal vul-ns vul-ew">
+<div class="deal dealer-n vul-ns vul-ew">
 
 | 西 | 北 | 東 | 南 |
 |---|---|---|---|
@@ -453,7 +453,7 @@
 
 東發牌，雙方無身價。
 
-<div class="deal">
+<div class="deal dealer-e">
 
 | 西 | 北 | 東 | 南 |
 |---|---|---|---|
@@ -485,7 +485,7 @@
 
 南發牌，南北有身價。
 
-<div class="deal vul-ns">
+<div class="deal dealer-s vul-ns">
 
 | 西 | 北 | 東 | 南 |
 |---|---|---|---|
@@ -516,7 +516,7 @@
 
 西發牌，東西有身價。
 
-<div class="deal vul-ew">
+<div class="deal dealer-w vul-ew">
 
 | 西 | 北 | 東 | 南 |
 |---|---|---|---|
@@ -548,7 +548,7 @@
 
 北發牌，雙方無身價。
 
-<div class="deal">
+<div class="deal dealer-n">
 
 | 西 | 北 | 東 | 南 |
 |---|---|---|---|
@@ -581,7 +581,7 @@
 
 東發牌，南北有身價。
 
-<div class="deal vul-ns">
+<div class="deal dealer-e vul-ns">
 
 | 西 | 北 | 東 | 南 |
 |---|---|---|---|
@@ -617,7 +617,7 @@
 
 南發牌，東西有身價。
 
-<div class="deal vul-ew">
+<div class="deal dealer-s vul-ew">
 
 | 西 | 北 | 東 | 南 |
 |---|---|---|---|
@@ -648,7 +648,7 @@
 
 西發牌，雙方有身價。
 
-<div class="deal vul-ns vul-ew">
+<div class="deal dealer-w vul-ns vul-ew">
 
 | 西 | 北 | 東 | 南 |
 |---|---|---|---|
