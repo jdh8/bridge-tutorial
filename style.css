@@ -79,3 +79,13 @@ html {
 .rust .sidebar {
 	--red: #f77;
 }
+
+/* Deals */
+/* Seat headers of the vulnerable side are red, as on duplicate boards.
+   Columns run W N E S, so N-S are the even ones. */
+.vul-ns th:nth-child(even),
+.vul-ew th:nth-child(odd),
+.vul-both th {
+	background: #b22;
+	color: #fff;
+}
