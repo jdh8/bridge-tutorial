@@ -39,7 +39,7 @@
 
 - [蓋叫](overcall.md)
 - [迫伴賭倍](takeout.md)
-- [負性賭倍](negative.md)
+- [敵方蓋叫之後](interference.md)
 - [竄叫]()
 - [平衡叫]()
 
