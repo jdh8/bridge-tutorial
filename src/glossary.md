@@ -58,6 +58,8 @@
 | 雙向問叫 | two-way checkback | 開叫者再叫 1NT 之後，2♣ 走邀請，2♦ 迫叫成局 |
 | 第四門迫叫 | fourth suit forcing | 叫第四門花色，迫叫成局，和那門花色無關 |
 | 慢速到達 | slow arrival | 迫叫成局之後在最便宜的線位叫，直接叫成局表示沒有滿貫興趣 |
+| 堅強 | solid | 不靠同伴也不會輸的長套，例如 AKQJ 帶頭的六張 |
+| 半堅強 | semi-solid | 最多輸一磴的長套，例如 AQJ10 或 KQJ10 帶頭的六張 |
 | 弱二 | weak two-bid | 不到開叫牌力、一門長套的 2♦、2♥、2♠ 開叫 |
 | 半迫叫 | semiforcing | 高花開叫之後的 1NT 答叫：開叫者只有平均牌型 12 點才派司 |
 | 迫叫 1NT | forcing notrump | 開叫者一定要再叫的 1NT 答叫，本書不用 |

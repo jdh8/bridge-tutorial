@@ -8,6 +8,20 @@
 
 本書和 BWS 不同的地方，見[點數範圍](ranges.md)和[強牌 2♣](strong-2c.md)。
 
+## 二蓋一的各家打法
+
+[二蓋一的風格](two-over-one.md)用到的資料：
+
+- Max Hardy 的制度摘要：<https://bridge-tips.co.il/wp-content/uploads/2016/09/2_1-Hardy-Max.pdf>。
+- Kokish–Kraft 的制度筆記（2008）：<https://bridgewithdan.com/wp-content/uploads/2019/07/WEAK-NOTRUMP-SYSTEM-Kokish-Kraft-Jan-2008.pdf>。
+- Larry Cohen 的文章：<https://www.larryco.com/bridge-articles/unifying-21-gf>。
+- Bridge Winners 在 2018 年的 BW 2/1 投票系列：<https://bridgewinners.com/article/series/bridge-winners-standard-21/>。定案在 `bw-21-final-conclusions`，其中的表格是一張圖。
+- kwbridge 的整理：<https://kwbridge.com/2over1.htm>。
+
+Bridge Winners 的得票率要登入才看得到。留言不必登入：文章的 HTML 裡有 `pk: <數字>`，留言在 `/bwcomments/list/Article/<pk>/`，回傳 JSON。
+
+Lawrence 和 Bergen 的打法目前只查到二手的整理，沒有對照原書。
+
 ## 雙夢家統計
 
 作者自己的雙夢家統計（大約一億副牌）寫在 `../pons/docs/`：
