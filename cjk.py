@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Join soft line breaks next to CJK characters, in place: cjk.py src/*.md
+"""Join soft line breaks next to CJK characters, in place: find src -name '*.md' -exec python3 cjk.py {} +
 
 A newline renders as a space, which Chinese does not want.  The rules follow
 CLAUDE.md: Han characters are spaced from western text, full-width punctuation

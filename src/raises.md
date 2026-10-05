@@ -142,7 +142,7 @@ Jacoby 2NT 和 Splinter 是同一個原則的兩面：
 
 ## 三張支持：先二蓋一
 
-Jacoby 2NT 和 Splinter 都保證四張支持。三張支持、12 支持點以上的牌，照[上一章](game-force.md#叫回同伴的高花就是支持)的做法：
+Jacoby 2NT 和 Splinter 都保證四張支持。三張支持、12 支持點以上的牌，照[上一章](game-force/responder.md#叫回同伴的高花就是支持)的做法：
 
 > **三張支持的成局加叫，先二蓋一，再在最便宜的線位支持。**
 
