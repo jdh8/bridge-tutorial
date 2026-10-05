@@ -80,3 +80,8 @@
 | 跳蓋叫 | jump overcall | 敵方開叫之後跳著叫花色，是竄叫 |
 | 負性賭倍 | negative double | 同伴開叫、右敵蓋叫之後的賭倍，表示沒叫過的高花有四張 |
 | 支持賭倍 | support double | 同伴一線答叫高花、右敵蓋叫之後，開叫者的賭倍，表示剛好三張支持 |
+| 敵花 | adverse suit | 敵方叫過的花色 |
+| 直接位置 | direct seat | 緊接在敵方叫品之後的座位 |
+| 平衡位置 | balancing seat | 派司就結束叫牌的座位 |
+| 平衡叫 | balancing | 在平衡位置叫牌，先向同伴借一張 K |
+| 平衡賭倍 | balancing double | 在平衡位置的迫伴賭倍 |

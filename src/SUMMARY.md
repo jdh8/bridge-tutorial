@@ -45,7 +45,7 @@
 - [迫伴賭倍](takeout.md)
 - [竄叫](preempt.md)
 - [敵方蓋叫之後](interference.md)
-- [平衡叫]()
+- [平衡叫](balancing.md)
 
 # 實戰
 
