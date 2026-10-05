@@ -84,8 +84,12 @@ html {
 /* Seat headers of the vulnerable side are red, as on duplicate boards.
    Columns run W N E S, so N-S are the even ones. */
 .vul-ns th:nth-child(even),
-.vul-ew th:nth-child(odd),
-.vul-both th {
+.vul-ew th:nth-child(odd) {
 	background: #b22;
 	color: #fff;
+}
+
+/* Rust's header is a warm tan that reads as faded red next to the red */
+.rust .deal {
+	--table-header-bg: hsl(60, 5%, 70%);
 }

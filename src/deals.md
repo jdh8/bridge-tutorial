@@ -22,6 +22,8 @@
 
 北發牌，雙方無身價。
 
+<div class="deal">
+
 | 西 | 北 | 東 | 南 |
 |---|---|---|---|
 | ♠J1072<br>♥1053<br>♦Q965<br>♣A6 | ♠A5<br>♥KQ84<br>♦KJ72<br>♣Q93 | ♠Q964<br>♥A9<br>♦1083<br>♣J742 | ♠K83<br>♥J762<br>♦A4<br>♣K1085 |
@@ -46,11 +48,13 @@
 
 </details>
 
+</div>
+
 ## 第 2 副
 
 東發牌，南北有身價。
 
-<div class="vul-ns">
+<div class="deal vul-ns">
 
 | 西 | 北 | 東 | 南 |
 |---|---|---|---|
@@ -85,7 +89,7 @@
 
 南發牌，東西有身價。
 
-<div class="vul-ew">
+<div class="deal vul-ew">
 
 | 西 | 北 | 東 | 南 |
 |---|---|---|---|
@@ -120,7 +124,7 @@
 
 西發牌，雙方有身價。
 
-<div class="vul-both">
+<div class="deal vul-ns vul-ew">
 
 | 西 | 北 | 東 | 南 |
 |---|---|---|---|
@@ -154,7 +158,7 @@
 
 北發牌，南北有身價。
 
-<div class="vul-ns">
+<div class="deal vul-ns">
 
 | 西 | 北 | 東 | 南 |
 |---|---|---|---|
@@ -186,7 +190,7 @@
 
 東發牌，東西有身價。
 
-<div class="vul-ew">
+<div class="deal vul-ew">
 
 | 西 | 北 | 東 | 南 |
 |---|---|---|---|
@@ -222,7 +226,7 @@
 
 南發牌，雙方有身價。
 
-<div class="vul-both">
+<div class="deal vul-ns vul-ew">
 
 | 西 | 北 | 東 | 南 |
 |---|---|---|---|
@@ -255,6 +259,8 @@
 
 西發牌，雙方無身價。
 
+<div class="deal">
+
 | 西 | 北 | 東 | 南 |
 |---|---|---|---|
 | ♠KJ5<br>♥Q84<br>♦A973<br>♣1062 | ♠Q93<br>♥KJ72<br>♦Q5<br>♣K974 | ♠A1082<br>♥A63<br>♦J84<br>♣J85 | ♠764<br>♥1095<br>♦K1062<br>♣AQ3 |
@@ -272,11 +278,13 @@
 
 </details>
 
+</div>
+
 ## 第 9 副
 
 北發牌，東西有身價。
 
-<div class="vul-ew">
+<div class="deal vul-ew">
 
 | 西 | 北 | 東 | 南 |
 |---|---|---|---|
@@ -311,7 +319,7 @@
 
 東發牌，雙方有身價。
 
-<div class="vul-both">
+<div class="deal vul-ns vul-ew">
 
 | 西 | 北 | 東 | 南 |
 |---|---|---|---|
@@ -343,6 +351,8 @@
 
 南發牌，雙方無身價。
 
+<div class="deal">
+
 | 西 | 北 | 東 | 南 |
 |---|---|---|---|
 | ♠J976<br>♥Q107<br>♦J85<br>♣973 | ♠85<br>♥J9642<br>♦Q73<br>♣1084 | ♠10432<br>♥A3<br>♦1094<br>♣AJ62 | ♠AKQ<br>♥K85<br>♦AK62<br>♣KQ5 |
@@ -372,11 +382,13 @@
 
 </details>
 
+</div>
+
 ## 第 12 副
 
 西發牌，南北有身價。
 
-<div class="vul-ns">
+<div class="deal vul-ns">
 
 | 西 | 北 | 東 | 南 |
 |---|---|---|---|
@@ -408,7 +420,7 @@
 
 北發牌，雙方有身價。
 
-<div class="vul-both">
+<div class="deal vul-ns vul-ew">
 
 | 西 | 北 | 東 | 南 |
 |---|---|---|---|
@@ -441,6 +453,8 @@
 
 東發牌，雙方無身價。
 
+<div class="deal">
+
 | 西 | 北 | 東 | 南 |
 |---|---|---|---|
 | ♠Q84<br>♥KJ73<br>♦J62<br>♣J54 | ♠752<br>♥A964<br>♦1085<br>♣A108 | ♠AJ3<br>♥Q5<br>♦KQ4<br>♣Q9632 | ♠K1096<br>♥1082<br>♦A973<br>♣K7 |
@@ -465,11 +479,13 @@
 
 </details>
 
+</div>
+
 ## 第 15 副
 
 南發牌，南北有身價。
 
-<div class="vul-ns">
+<div class="deal vul-ns">
 
 | 西 | 北 | 東 | 南 |
 |---|---|---|---|
@@ -500,7 +516,7 @@
 
 西發牌，東西有身價。
 
-<div class="vul-ew">
+<div class="deal vul-ew">
 
 | 西 | 北 | 東 | 南 |
 |---|---|---|---|
@@ -532,6 +548,8 @@
 
 北發牌，雙方無身價。
 
+<div class="deal">
+
 | 西 | 北 | 東 | 南 |
 |---|---|---|---|
 | ♠3<br>♥10974<br>♦Q963<br>♣Q1085 | ♠52<br>♥AQ5<br>♦KJ1084<br>♣A93 | ♠A10764<br>♥J82<br>♦A72<br>♣K6 | ♠KQJ98<br>♥K63<br>♦5<br>♣J742 |
@@ -557,11 +575,13 @@
 
 </details>
 
+</div>
+
 ## 第 18 副
 
 東發牌，南北有身價。
 
-<div class="vul-ns">
+<div class="deal vul-ns">
 
 | 西 | 北 | 東 | 南 |
 |---|---|---|---|
@@ -597,7 +617,7 @@
 
 南發牌，東西有身價。
 
-<div class="vul-ew">
+<div class="deal vul-ew">
 
 | 西 | 北 | 東 | 南 |
 |---|---|---|---|
@@ -628,7 +648,7 @@
 
 西發牌，雙方有身價。
 
-<div class="vul-both">
+<div class="deal vul-ns vul-ew">
 
 | 西 | 北 | 東 | 南 |
 |---|---|---|---|
