@@ -280,7 +280,7 @@ BWS 只說扣叫表示牌力，同伴叫原花色的兩線以下（例如 (1♥)
 | 1♥ (1♠) X、1♠ (2♥) X | 兩門低花各四張以上 | 沒寫 |
 | 1M (2m) X | 另一門高花四張以上 | 相同 |
 | 1♦ (2♣) X | 兩門高花各四張以上 | 二線、兩門高花都沒叫過時不保證 |
-| 適用範圍 | 蓋叫到 3♠ 為止 | 相同 |
+| 適用範圍 | 不設上限，書裡不寫 | 蓋叫到 3♠ 為止 |
 
 這是 ../pons 的 `competitive-book.md` 說的 Modern。同一份文件比過 Sputnik（賭倍否認一線叫得出的四張高花，直接叫高花只要四張）和 Cachalot（轉換式），結論是 Sputnik 和 Modern 打平、Cachalot 輸，所以書裡照 BWS。
 
@@ -288,6 +288,15 @@ BWS 只說扣叫表示牌力，同伴叫原花色的兩線以下（例如 (1♥)
 
 - 1♣ (1♦) X 寫成兩門「都是四張」，5–4 的牌直接叫五張那一門。BWS 只說至少四張。
 - 1♦ (2♣) X 要求兩門高花都有。BWS 不保證；專家的打法是只有一門時要有開叫低花的支持可以退。這樣寫的代價是 8、9 點、只有一門四張高花的牌沒有叫品。
+
+「到 3♠ 為止」的出處和其他說法（2026-10-05 查的）：
+
+- **BWS 2017**：高花、低花開叫之後都寫 "a double is negative through three spades"。1NT 開叫之後另外規定："A double of a natural two- or three-level overcall is negative, of a higher bid is penalty."
+- **SAYC**（ACBL 的 SAYC System Booklet）："The negative double is used through 2♠"，比 BWS 低一級。
+- **Larry Cohen**（Double Trouble）：所有線位都是負性。"Negative doubles should be played on all levels. In fact, the higher they bid, the less likely you are to hold a penalty double." 他說在約定卡寫 "through 3S" 是短視，只能寫 7♠ 或無限。代價是高線位的負性賭倍開叫者可以放掉，見[迫叫](#迫叫)。
+- 英文維基百科只拿 3♠ 當例子，沒說誰用哪個上限。
+
+作者在 2026-10-05 決定照 Cohen：不設上限，書裡也不寫上限。理由是現代橋牌的預設就是沒有約定的賭倍都是迫伴，不必另外劃一條線。這是書裡和 BWS 不同的地方。
 
 1♥ (1♠) X 另一個常見的用法是一門長低花、點數不夠叫二線，書裡沒寫。
 

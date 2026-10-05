@@ -38,6 +38,7 @@ Lawrence 和 Bergen 的打法目前只查到二手的整理，沒有對照原書
 - Marty Bergen《Negative Doubles》的摘錄：<https://www.bridgewebs.com/richmondba/negdoub_bergen.pdf>。只有高線位的部分，全書沒有查到。
 - Robert Todd 的〈Opener's Rebids After a Negative Double〉：<https://www.advinbridge.com/this-week-in-bridge/343>。
 - Karen Walker：<https://kwbridge.com/negdbl.htm>；Richard Pavlicek：<https://www.rpbridge.net/5a00.htm>。
+- ACBL 的 SAYC System Booklet：<https://www.bridgehands.com/Conventions/SAYC_System_Notes.pdf>。字型把花色符號編成別的字，抽出來的文字少了 ♠。
 - 英文維基百科的 Negative double 條目，歷史的部分引 Official Encyclopedia of Bridge 第七版第 303 頁。
 
 ## 歷史
