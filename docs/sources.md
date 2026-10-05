@@ -30,6 +30,16 @@ Lawrence 和 Bergen 的打法目前只查到二手的整理，沒有對照原書
 - Pete Matthews 的〈Doubler's Cue Bid〉：<https://bridgewinners.com/article/view/doublers-cue-bid/>。他的扣叫通常是三張支持、加叫的牌力，和本書的總入口不同。
 - Steve Robinson 的專家問卷〈Forcing Bids after a Takeout Double〉：<https://csbnews.org/en/forcing-bids-after-a-takeout-double/>。只讀過摘要，沒有逐句對照。
 
+## 負性賭倍
+
+[第五部的數字](part5.md#迫叫)查開叫者能不能放掉負性賭倍時用到的資料：
+
+- Larry Cohen 的〈Double Trouble〉：<https://www.larryco.com/uploaded/pdf/pdfup_24.pdf>。PDF，沒有 pdftotext 時可以用 Swift 的 PDFKit 取出文字。
+- Marty Bergen《Negative Doubles》的摘錄：<https://www.bridgewebs.com/richmondba/negdoub_bergen.pdf>。只有高線位的部分，全書沒有查到。
+- Robert Todd 的〈Opener's Rebids After a Negative Double〉：<https://www.advinbridge.com/this-week-in-bridge/343>。
+- Karen Walker：<https://kwbridge.com/negdbl.htm>；Richard Pavlicek：<https://www.rpbridge.net/5a00.htm>。
+- 英文維基百科的 Negative double 條目，歷史的部分引 Official Encyclopedia of Bridge 第七版第 303 頁。
+
 ## 歷史
 
 Bryant McCampbell 的《Auction Tactics》（Dodd, Mead，1915）在 archive.org 有全文和掃描：<https://archive.org/details/auctiontactics00mcca>，1917 年的印本是 `auctiontactics00mcca_0`。純文字在 `https://archive.org/download/<id>/<id>_djvu.txt`，單頁掃描在 `https://archive.org/download/<id>/page/n<leaf>_w1000.jpg`，書上的第 62 頁是 leaf 65。迫伴賭倍的考證見[第五部的數字](part5.md#歷史)。
