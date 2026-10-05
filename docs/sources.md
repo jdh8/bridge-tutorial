@@ -22,6 +22,14 @@ Bridge Winners 的得票率要登入才看得到。留言不必登入：文章�
 
 Lawrence 和 Bergen 的打法目前只查到二手的整理，沒有對照原書。
 
+## 賭倍者的扣叫
+
+[第五部的數字](part5.md#賭倍者的扣叫)用到的資料：
+
+- La Jolla 的 bidding handbook，10-9 節〈Cue Bids in Takeout Double Situations〉：<https://lajollabridge.com/French/biddinghandbook/10-09.pdf>。
+- Pete Matthews 的〈Doubler's Cue Bid〉：<https://bridgewinners.com/article/view/doublers-cue-bid/>。他的扣叫通常是三張支持、加叫的牌力，和本書的總入口不同。
+- Steve Robinson 的專家問卷〈Forcing Bids after a Takeout Double〉：<https://csbnews.org/en/forcing-bids-after-a-takeout-double/>。只讀過摘要，沒有逐句對照。
+
 ## 歷史
 
 Bryant McCampbell 的《Auction Tactics》（Dodd, Mead，1915）在 archive.org 有全文和掃描：<https://archive.org/details/auctiontactics00mcca>，1917 年的印本是 `auctiontactics00mcca_0`。純文字在 `https://archive.org/download/<id>/<id>_djvu.txt`，單頁掃描在 `https://archive.org/download/<id>/page/n<leaf>_w1000.jpg`，書上的第 62 頁是 leaf 65。迫伴賭倍的考證見[第五部的數字](part5.md#歷史)。
