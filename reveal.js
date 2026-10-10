@@ -79,4 +79,6 @@ document.querySelectorAll(".deal").forEach(deal => {
 		}
 		shown = !shown;
 	};
+
+	start.onclick();
 });
