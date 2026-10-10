@@ -12,5 +12,6 @@
 - [術語](terminology.md)：台灣的用語、哪些約定保留英文、哪些譯名還沒查證。
 - [資料來源](sources.md)：BWS 原文、歷史文獻和 ../pons 的雙夢家統計。
 - [影片系列](video.md)：把書當 YouTube 教學影片素材的評估、風險、錄製順序和分集草案。
+- [互動練習](interactive.md)：為什麼改做互動網頁而不是影片，以及 pons 機器人和實戰篇答案的比對。
 
 排版規則和書一樣，見 [CLAUDE.md](../CLAUDE.md)。
