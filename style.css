@@ -101,3 +101,20 @@ html {
 .dealer-s th:nth-child(4) {
 	background-image: radial-gradient(circle, transparent 0.75em, currentColor calc(0.75em + 0.5px) calc(0.75em + 1.5px), transparent calc(0.75em + 2px));
 }
+
+/* Reveal mode buttons, see reveal.js */
+.deal button {
+	font: inherit;
+	color: var(--fg);
+	background: var(--table-header-bg);
+	border: 1px solid var(--table-border-color);
+	border-radius: 4px;
+	padding: 2px 12px;
+	cursor: pointer;
+}
+
+@media print {
+	.deal button {
+		display: none;
+	}
+}
