@@ -2,7 +2,7 @@
 
 ## Bridge World Standard 2017
 
-完整的制度原文在 <https://www.bridgeworld.com/pages/readingroom/bws/bwscompletesystem.html>，一頁大約 90 KB 的 HTML。用 curl 抓的時候要帶瀏覽器的 User-Agent。舊的 `indexphp.php?page=...` 和 `default.asp?...` 網址都是 404（2026-10-04 查過）。
+完整的制度原文在 <https://www.bridgeworld.com/pages/readingroom/bws/bwscompletesystem.html>，一頁大約 90 KB 的 HTML。用 curl 抓的時候要帶瀏覽器的 User-Agent。舊的 `indexphp.php?page=...` 和 `default.asp?...` 網址都是 404（2026-10-04 查過）。2026-10-11 直連被 Cloudflare 的驗證頁擋住，改從 Wayback Machine 抓：`https://web.archive.org/web/2024id_/<原網址>`。
 
 制度上的事實要對照原文再寫進書裡，不要憑記憶。一個容易踩的坑：BWS 2017 的 1NT - 2NT 是轉換到方塊，不是自然的邀請；邀請要走 2♠ 問範圍，或是 Stayman 之後再叫 2NT。
 

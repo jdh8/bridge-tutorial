@@ -29,7 +29,7 @@
 
 ## 約定的名字保留英文
 
-以人名或專名命名的約定不翻譯，讀者才查得到資料：Stayman、Texas、Smolen、Jacoby 2NT、Gerber、Birthright、RKCB、Splinter、Michaels、Unusual 2NT。這些名字不列進術語對照表。
+以人名或專名命名的約定不翻譯，讀者才查得到資料：Stayman、Puppet Stayman、Texas、Smolen、Jacoby 2NT、Gerber、Birthright、RKCB、Splinter、Michaels、Unusual 2NT。這些名字不列進術語對照表。
 
 ## 還沒查證的譯名
 

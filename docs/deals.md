@@ -79,4 +79,4 @@ python3 deals.py | (cd ../dds-bridge && cargo run -q --release --example solve-p
 
 第三部 7 副（1、5、6、12、14、16、18），第四部 6 副（2、4、9、11、19、20），第五部 6 副（3、7、10、13、15、17），加上第 8 副。主題是起草時選的，作者還沒有逐副確認。
 
-還沒有出現的工具：1NT 之後的轉換叫（只在第 11 副的 2NT 之後出現）、Texas、Gerber、Michaels、Unusual 2NT、支持賭倍、借一張 K 的平衡叫、平衡位置的 1NT 和 2NT。要換牌的話，可以從這裡挑。
+還沒有出現的工具：1NT 之後的轉換叫（只在第 11 副的 2NT 之後出現）、5–4 高花的邀請、Puppet Stayman、Texas、Gerber、Michaels、Unusual 2NT、支持賭倍、借一張 K 的平衡叫、平衡位置的 1NT 和 2NT。要換牌的話，可以從這裡挑。
