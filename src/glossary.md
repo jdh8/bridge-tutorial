@@ -57,7 +57,7 @@
 | 反序加叫 | inverted minor raise | 低花簡單加叫是強牌，跳加叫是弱牌 |
 | 雙向問叫 | two-way checkback | 開叫者再叫 1NT 之後，2♣ 走邀請，2♦ 迫叫成局 |
 | 第四門迫叫 | fourth suit forcing | 叫第四門花色，迫叫成局，和那門花色無關 |
-| 慢速到達 | slow arrival | 迫叫成局之後在最便宜的線位叫，直接叫成局表示沒有滿貫興趣 |
+| 速達原則 | principle of fast arrival | 迫叫成局之後在最便宜的線位叫，直接叫成局表示沒有滿貫興趣 |
 | 堅強 | solid | 不靠同伴也不會輸的長套，例如 AKQJ 帶頭的六張 |
 | 半堅強 | semi-solid | 最多輸一磴的長套，例如 AQJ10 或 KQJ10 帶頭的六張 |
 | 弱二 | weak two-bid | 不到開叫牌力、一門長套的 2♦、2♥、2♠ 開叫 |
@@ -71,9 +71,9 @@
 | 競叫 | competitive bidding | 雙方都叫牌 |
 | 蓋叫 | overcall | 敵方開叫之後叫出花色或無王 |
 | 扣叫 | cue-bid | 叫敵方叫過的花色，和那門無關，例如強的加叫 |
-| 處罰性賭倍 | penalty double | 字面意思的賭倍：認為敵方做不成合約 |
+| 處罰賭倍 | penalty double | 字面意思的賭倍：認為敵方做不成合約 |
 | 迫伴賭倍 | takeout double | 請同伴在未叫的花色裡選一門叫出來的賭倍 |
-| 處罰性派司 | penalty pass | 同伴迫伴賭倍之後派司，把它變成處罰 |
+| 罰放 | penalty pass | 同伴迫伴賭倍之後派司，把它變成處罰 |
 | 竄叫 | preempt | 不到開叫牌力、有長門的牌直接叫高，搶走敵方的叫牌空間 |
 | 竄開叫 | preemptive opening | 用竄叫開叫：六張二線，七張三線，八張四線 |
 | 犧牲 | sacrifice | 寧可倒約，也不讓敵方打成合約 |

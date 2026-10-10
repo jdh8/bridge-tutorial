@@ -14,6 +14,9 @@
 | double negative | 雙重負性 | 雙重否定 |
 | double dummy | 雙夢家 | 雙明手 |
 | trump contract, suit contract | 王牌合約 | 有王合約、花色合約 |
+| penalty double | 處罰賭倍 | 處罰性賭倍、懲罰性賭倍 |
+| penalty pass | 罰放 | 處罰性派司 |
+| principle of fast arrival | 速達原則 | 慢速到達、速達原理 |
 
 台灣的華語偏好完整的複合詞，不用縮略的說法，例如簡單加叫。
 
@@ -31,16 +34,35 @@
 
 以人名或專名命名的約定不翻譯，讀者才查得到資料：Stayman、Puppet Stayman、Texas、Smolen、Jacoby 2NT、Gerber、Birthright、RKCB、Splinter、Michaels、Unusual 2NT。這些名字不列進術語對照表。
 
+## PTT 查證
+
+2026-10-11 抓了 PTT bridge 板全部 2456 篇文章（含推文），數每個說法出現在幾篇。這是單一來源，偏重會上網討論的橋手，但是比起憑印象好得多。網路搜尋引擎幾乎找不到中文的橋牌用語，查術語直接抓 PTT：`https://www.ptt.cc/bbs/bridge/index{1..151}.html` 列出文章，請求帶 `over18=1` 的 cookie。
+
+| 英文 | 書裡寫 | PTT | 結論 |
+|---|---|---|---|
+| weak two-bid | 弱二 | 弱二 64 篇 | 照用 |
+| waiting response | 等待叫 | 等待叫品 2 篇；2♣ - 2♦ 說成「示弱或等待一圈」 | 有人這樣說，但是不常見，照用 |
+| penalty double | 處罰性賭倍 | 處罰賭倍 23 次、懲罰性加倍 10 次、處罰性 0 次 | 台灣說處罰賭倍，不加「性」；懲罰性加倍是中國的說法。已改 |
+| penalty pass | 處罰性派司 | 罰放 60 次、處罰 Pass 1 次 | 台灣說罰放。已改 |
+| support double | 支持賭倍 | 支持賭倍 8 次、支持性賭倍 4 次 | 照用 |
+| sacrifice | 犧牲 | 犧牲 71 篇，多半當動詞：「叫 6♠ 犧牲」「找好犧牲」 | 照用 |
+| balancing seat | 平衡位置 | 15 篇 | 照用 |
+| direct seat | 直接位置 | 4 篇 | 照用 |
+| borrow a king | 向同伴借一張 K | 0 篇 | 查不到，是照英文直譯的 |
+| principle of fast arrival | 慢速到達 | 速達原則 10 次、速達原理 0 次、緩達 1 次、慢速到達 0 次 | 台灣叫速達原則，見下。已改 |
+
+PTT 的速達原則指的就是書裡的慢速到達：「既然都約定 2/1GF 了，此時應用速達原則逕行叫出 3N」，「用跳 2H 去示強，這明顯是違反速達原則的不良叫牌」。英文的 fast arrival 和 slow arrival 也是同一個原則，看從哪一頭說。作者在 2026-10-11 說過沒聽過慢速到達、但聽過速達原理；沒有通行譯名的話，快速到達、慢速到達就好。現在查到通行的是速達原則，作者在 2026-10-11 同意改成速達原則，處罰賭倍、罰放也同時改掉。英文附註寫 principle of fast arrival，和中文的名字對得上。
+
+其他順便查到的：迫伴賭倍 24 篇，技術性賭倍 0 篇。扣叫 102 次，同時用在叫敵方花色和報控制。
+
 ## 還沒查證的譯名
 
-慢速到達 (slow arrival)、弱二 (weak two-bid)、等待叫 (waiting response) 是起草時用的，還沒有確認台灣是不是這樣說。
+迫伴賭倍是作者在目錄裡定的名字，也有人叫技術性賭倍（PTT 0 篇）。advancer（蓋叫者或賭倍者的同伴）沒有通行的譯名，書裡一律寫「同伴」，作者在 2026-10-05 確認先這樣。哪天一定要指名的時候，作者的候選是把 advance 譯成競答叫（advancer 就是競答叫者）；這是自創的譯名，還沒有用在書裡。
 
-處罰性賭倍 (penalty double)、處罰性派司 (penalty pass) 是寫迫伴賭倍那一章時用的，也還沒有確認；另一個常見的寫法是懲罰性賭倍。迫伴賭倍是作者在目錄裡定的名字，也有人叫技術性賭倍。advancer（蓋叫者或賭倍者的同伴）沒有通行的譯名，書裡一律寫「同伴」，作者在 2026-10-05 確認先這樣。哪天一定要指名的時候，作者的候選是把 advance 譯成競答叫（advancer 就是競答叫者）；這是自創的譯名，還沒有用在書裡。
-
-竄叫 (preempt) 是作者在目錄裡定的名字。竄開叫 (preemptive opening) 和跳蓋叫 (jump overcall) 是作者在 2026-10-05 定的；起草時寫成竄叫開叫、跳叫蓋叫，作者改掉了。所以「偏好完整的複合詞」不是通則，通行的縮略說法照用。犧牲 (sacrifice) 是寫竄叫那一章時用的，還沒有確認。BWS 的 feature 沒有取名字，書裡直接寫「旁門的 A 或 K」。
+竄叫 (preempt) 是作者在目錄裡定的名字。竄開叫 (preemptive opening) 和跳蓋叫 (jump overcall) 是作者在 2026-10-05 定的；起草時寫成竄叫開叫、跳叫蓋叫，作者改掉了。所以「偏好完整的複合詞」不是通則，通行的縮略說法照用。BWS 的 feature 沒有取名字，書裡直接寫「旁門的 A 或 K」。
 
 敵花 (adverse suit) 是作者在 2026-10-06 提的說法，指敵方叫過的花色。平衡叫那一章先用，並在那裡介紹；前面幾章還是寫「敵方的花色」。
 
-平衡叫 (balancing) 是作者在目錄裡定的名字，平衡賭倍 (balancing double, reopening double) 是作者在 2026-10-05 確認的。平衡位置 (balancing seat)、直接位置 (direct seat) 和「向同伴借一張 K」(borrow a king) 是寫平衡叫那一章時用的，還沒有確認台灣是不是這樣說。
+平衡叫 (balancing) 是作者在目錄裡定的名字，平衡賭倍 (balancing double, reopening double) 是作者在 2026-10-05 確認的。
 
 替約定取中文名字的時候，要標明是暫定的，不要當成定案。
