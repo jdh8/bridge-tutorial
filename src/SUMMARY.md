@@ -51,6 +51,10 @@
 
 - [三十二副牌，全部叫一遍](deals.md)
 
+# 附錄
+
+- [和 BWS、SAYC 的差異](appendix.md)
+
 ---
 
 [術語對照](glossary.md)
