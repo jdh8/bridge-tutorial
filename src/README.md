@@ -16,7 +16,7 @@
 
 ## 怎麼讀
 
-- 橋牌是打出來的。每讀完一章，找三個朋友，或上 [Bridge Base Online](https://www.bridgebase.com/) 打幾副牌。
+- 橋牌是打出來的。每讀完一章，找三個朋友，或上 [IntoBridge](https://intobridge.com/) 打幾副牌。
 - 術語第一次出現時會用**粗體**，並附上英文。全部整理在[術語對照](glossary.md)。
 - 想先看影片的話，洪介興老師的[冷光橋藝教室](https://www.youtube.com/watch?v=F2aTonsHemI)是很好的起點，本書前幾章的範圍和它的第一級相近。
 
