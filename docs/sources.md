@@ -61,3 +61,11 @@ Bryant McCampbell 的《Auction Tactics》（Dodd, Mead，1915）在 archive.org
 每一篇都按牌力尺度（大牌點、只有夢家算支持點、兩手都算支持點）和王牌張數，列出損益兩平的點數。
 
 書裡的統計說法，例如成局或滿貫要幾點、一張王牌或一個短門值多少，先查這些文件再引用；文件沒有涵蓋的問題才另外模擬。這些研究用的尺度和書裡的表格略有不同，例如短門一律算 3、2、1 點，兩門合計十張以上再加 1 點，所以引用時要說明是哪一種尺度。
+
+## 線上平台
+
+2026-10-18 查過：
+
+- BBO 從 2026 年起，免費帳號的 Social Bridge 一天只能打 6 副，所以前言改推 IntoBridge。<https://en.wikipedia.org/wiki/Bridge_Base_Online>
+- BBO 的 GIB 機器人打二蓋一：<https://online-cf.bridgebase.com/doc/gib_system_notes.php>。BBO+ 可以改成 Precision 或五張高花：<https://news.bridgebase.com/2025/07/02/customize-your-robot-system/>。
+- IntoBridge 的機器人 Lia 預設打二蓋一，可以改成 Acol 或 SEF：<https://intobridge.com/news/lia-plays-acol-and-sef/>。約定卡寫 2/1 GF、強無王、五張高花、較佳低花：<https://intobridge.com/wp-content/uploads/2023/11/Lia-ACBL-CC.pdf>。
