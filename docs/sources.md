@@ -69,3 +69,12 @@ Bryant McCampbell 的《Auction Tactics》（Dodd, Mead，1915）在 archive.org
 - BBO 從 2026 年起，免費帳號的 Social Bridge 一天只能打 6 副，所以前言改推 IntoBridge。<https://en.wikipedia.org/wiki/Bridge_Base_Online>
 - BBO 的 GIB 機器人打二蓋一：<https://online-cf.bridgebase.com/doc/gib_system_notes.php>。BBO+ 可以改成 Precision 或五張高花：<https://news.bridgebase.com/2025/07/02/customize-your-robot-system/>。
 - IntoBridge 的機器人 Lia 預設打二蓋一，可以改成 Acol 或 SEF：<https://intobridge.com/news/lia-plays-acol-and-sef/>。約定卡寫 2/1 GF、強無王、五張高花、較佳低花：<https://intobridge.com/wp-content/uploads/2023/11/Lia-ACBL-CC.pdf>。
+
+## 強牌 2♣
+
+[強牌 2♣](strong-2c.md#考慮過的2-直接示弱) 查 2♥ 直接示弱時用到的資料（2026-10-18）：
+
+- Pete Matthews，〈Strong 2C - 2D Game Force, 2H Bust〉：<https://bridgewinners.com/article/view/strong-2c-2d-game-force-2h-bust/>；〈Strong 2C - 2D Waiting〉：<https://bridgewinners.com/article/view/strong-2c-2d-waiting-2-rwxs07mrpl/>。投票結果要登入才看得到，得票率是文章裡轉述的。
+- Curt Soloff，〈Kokish with 2♥ bust〉：<https://bridgewinners.com/article/view/kokish-with-2h-bust/>。留言沒有載入，只讀了本文。
+- Bob Wolff 的專欄：<https://aces.bridgeblogging.com/?p=6271>。
+- 英文維基百科 Strong two clubs：<https://en.wikipedia.org/wiki/Strong_two_clubs>。
