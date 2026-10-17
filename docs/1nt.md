@@ -34,4 +34,4 @@ Puppet 找到配合之後的滿貫試探不提。
 
 2NT 之後不用 Puppet，3♣ 照 BWS 是 Stayman 加 Smolen。2NT 家族（20--21 點開叫，2♣ 之後 22--24 點和 25 點以上的再叫）都可能有五張高花，開叫者有五張就答 3♥ 或 3♠。同伴只有三張時會錯過 5–3 配合，改打 3NT，這是作者 2026-10-18 接受的代價。2026-10-11 到 10-17 之間，2NT 開叫曾經不含五張高花（21--23 點的 5M–3–3–2 開叫 2♣ 再叫 2M），見[強牌 2♣](strong-2c.md#為什麼回到-bws)。
 
-1NT 有 Puppet、2NT 沒有，理由是叫品空間：1NT 之後 2♣ 是 Stayman，3♣ 空著可以給 Puppet；2NT 之後只有 3♣ 一格，Puppet 得和普通 Stayman 搶，5–4 和 Smolen 都要重寫。
+1NT 有 Puppet、2NT 沒有，差在叫品空間。1NT 之後 2♣ 是 Stayman，3♣ 空著可以給 Puppet。2NT 之後只有 3♣ 一格，Puppet 得和普通 Stayman 搶，5–4 和 Smolen 都要重寫。
