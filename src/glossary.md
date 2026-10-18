@@ -50,7 +50,7 @@
 | 特約叫 | convention | 意思另有約定的叫品 |
 | 轉換叫 | transfer | 叫低一級的花色，請同伴叫出你的長門 |
 | 止叫 | sign-off | 請同伴派司 |
-| 邀請 | invitational | 請同伴高限再叫 |
+| 邀請 | invitational | 請同伴在高限時再叫 |
 | 迫叫 | forcing | 同伴不可派司 |
 | 迫叫成局 | game forcing (GF) | 成局之前雙方都不派司 |
 | 二蓋一 | two-over-one (2/1) | 二線新花答叫為迫叫成局的架構 |
@@ -65,7 +65,7 @@
 | 迫叫 1NT | forcing notrump | 開叫者一定要再叫的 1NT 答叫，本書不用 |
 | 等待叫 | waiting response | 2♣ 開叫之後答 2♦，和方塊無關，表示沒有正性答叫的牌 |
 | 正性答叫 | positive response | 2♣ 開叫之後 2♦ 以外的答叫：8 點以上，好花色或平均牌型，迫叫成局 |
-| 控制 | control | 能擋住敵方在一門花色前兩輪的牌：A、K，王牌合約時也包括單張、缺門 |
+| 控制 | control | 能防止敵方連吃同一門花色前兩磴的牌：A、K，王牌合約時也包括單張、缺門 |
 | 關鍵張 | key cards | 四張 A 加上王牌 K |
 | RKCB | Roman Key-Card Blackwood | 王牌確定之後叫 4NT，問同伴有幾張關鍵張 |
 | 扣叫 | control bid | 王牌確定之後叫王牌以外的花色，表示那門有控制、對滿貫有興趣 |
