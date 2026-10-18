@@ -35,7 +35,9 @@
 
 ## 約定的名字保留英文
 
-以人名或專名命名的約定不翻譯，讀者才查得到資料：Stayman、Puppet Stayman、Texas、Smolen、Jacoby 2NT、Gerber、Birthright、RKCB、Splinter、Michaels、Unusual 2NT。這些名字不列進術語對照表。
+以人名或專名命名的約定不翻譯，讀者才查得到資料：Stayman、Puppet Stayman、Texas、Smolen、Jacoby 2NT、Gerber、Birthright、RKCB、Splinter、Michaels、Unusual 2NT、Gambling 3NT。這些名字不列進術語對照表，只有縮寫的 RKCB 例外：2026-10-19 起對照表的第一欄是「中文或縮寫」，RKCB 和 P/C 都列在裡面。
+
+**P/C** (pass or correct) 也直接用縮寫當術語，不寫成「派司或改叫」，2026-10-19 作者決定。第一次出現在竄叫章的 Gambling 3NT。第三部 responder.md 的「派司或改叫 2♠」是在 P/C 介紹之前的一般敘述，照舊。
 
 ## PTT 查證
 
