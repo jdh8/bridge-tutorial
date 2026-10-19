@@ -33,6 +33,12 @@
 
 雙重負性是定下來的譯名，[強牌 2♣](strong-2c.md) 用到。
 
+## 成局無望
+
+2026-10-19 作者覺得 goals.md 的「確定不成局，就盡快停下來」不自然，要求查網路用例。[元橋〈淺介「橋牌」〉](https://jlc020609.pixnet.net/blog/posts/4044159463)在弱二答叫等處反覆用「成局無望」，例如「派司：牌力不明，成局無望」。這能支持「成局無望」是現成的說法，但目前找到的用例不足以判定哪個說法最常見。作者同日決定，本書這類用法統一改成「成局無望」，例如「成局無望，就盡早停叫」。
+
+合約的分類則保留「部分合約」：[中華民國橋藝協會的 2017 年規則中譯，第 77 條](https://www.ctcba.org.tw/public/files/artsinfo/1729152331-0.pdf)用這個名稱指牌磴分數未達 100 分的合約。[中橋季刊](https://www.ctcba.org.tw/public/files/artsinfo/1729063307-0.pdf)也查得到「低花不成局合約」的用例，所以不能說「不成局」是錯詞。goals.md 那句談的是成局的機會，用「成局無望」更清楚。
+
 ## 約定的名字保留英文
 
 以人名或專名命名的約定不翻譯，讀者才查得到資料：Stayman、Puppet Stayman、Texas、Smolen、Jacoby 2NT、Gerber、Birthright、RKCB、Splinter、Michaels、Unusual 2NT、Gambling 3NT。這些名字不列進術語對照表，只有縮寫的 RKCB 例外：2026-10-19 起對照表的第一欄是「中文或縮寫」，RKCB 和 P/C 都列在裡面。
