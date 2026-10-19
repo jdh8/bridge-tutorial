@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-2 -2 494 226" width="494" height="226" font-family="'Open Sans', sans-serif" text-anchor="middle">
+  <!-- Fixed piano colours on a transparent background: dark outlines keep the
+       white keys apart from a light page, the grey outline keeps the black
+       keys apart from a dark one.  The stubs at both ends fade out so the
+       picture reads as a slice of a keyboard. -->
+  <defs>
+    <linearGradient id="fade">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0.08" stop-color="#fff"/>
+      <stop offset="0.92" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="ends" maskUnits="userSpaceOnUse" x="-2" y="-2" width="494" height="226">
+      <rect x="-2" y="-2" width="494" height="226" fill="url(#fade)"/>
+    </mask>
+  </defs>
+  <g mask="url(#ends)" stroke-width="2">
+    <g fill="#fff" stroke="#333">
+      <rect x="0" y="0" width="80" height="220" rx="4"/>
+      <rect x="80" y="0" width="110" height="220" rx="4"/>
+      <rect x="190" y="0" width="110" height="220" rx="4"/>
+      <rect x="300" y="0" width="110" height="220" rx="4"/>
+      <rect x="410" y="0" width="80" height="220" rx="4"/>
+    </g>
+    <g fill="#1a1a1a" stroke="#666">
+      <rect x="45" y="0" width="70" height="132" rx="3"/>
+      <rect x="155" y="0" width="70" height="132" rx="3"/>
+      <rect x="265" y="0" width="70" height="132" rx="3"/>
+    </g>
+  </g>
+  <g fill="#222">
+    <text x="135" y="182" font-size="22" font-weight="bold">1NT</text>
+    <text x="135" y="206" font-size="15">15–17</text>
+    <text x="245" y="182" font-size="22" font-weight="bold">2NT</text>
+    <text x="245" y="206" font-size="15">20–21</text>
+    <text x="355" y="182" font-size="22" font-weight="bold">3NT</text>
+    <text x="355" y="206" font-size="15">成局</text>
+  </g>
+  <g fill="#fff">
+    <text x="80" y="92" font-size="17" font-weight="bold">½NT</text>
+    <text x="80" y="114" font-size="13">12–14</text>
+    <text x="190" y="92" font-size="17" font-weight="bold">1½NT</text>
+    <text x="190" y="114" font-size="13">18–19</text>
+    <text x="300" y="92" font-size="17" font-weight="bold">2½NT</text>
+    <text x="300" y="114" font-size="13">22–24</text>
+  </g>
+</svg>

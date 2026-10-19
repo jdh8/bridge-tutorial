@@ -38,6 +38,17 @@ table thead th {
 	margin-bottom: 1em;
 }
 
+/* Figures */
+figure {
+	margin: 1.5em 0;
+	text-align: center;
+}
+
+figcaption {
+	font-size: 0.9em;
+	margin-top: 0.5em;
+}
+
 /* Suits */
 .♥,
 .♦ {
