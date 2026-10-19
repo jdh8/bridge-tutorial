@@ -55,8 +55,8 @@ figcaption {
 	color: var(--red);
 }
 
-.content a .♥,
-.content a .♦ {
+.content a:not(.header) .♥,
+.content a:not(.header) .♦ {
 	color: inherit;
 }
 
