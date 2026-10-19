@@ -92,4 +92,4 @@ BWS 和 SAYC 的防禦叫牌多半只講結構，點數寫得很少。有數字�
 
 其他的差異多半只有一、兩點，照對方的叫，算術一樣。
 
-[bws]: https://www.bridgeworld.com/pages/readingroom/bws/bwscompletesystem.html
+[bws]: https://web.archive.org/web/20260613213128/https://www.bridgeworld.com/pages/readingroom/bws/bwscompletesystem.html

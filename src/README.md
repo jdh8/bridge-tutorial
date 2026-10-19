@@ -31,4 +31,4 @@
 
 講義把「磴」寫作「墩」，是同一個東西。
 
-[bws]: https://www.bridgeworld.com/pages/readingroom/bws/bwscompletesystem.html
+[bws]: https://web.archive.org/web/20260613213128/https://www.bridgeworld.com/pages/readingroom/bws/bwscompletesystem.html
