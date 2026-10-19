@@ -55,9 +55,9 @@ figcaption {
 	color: var(--red);
 }
 
-.♠,
-.♣ {
-	color: var(--fg);
+.content a .♥,
+.content a .♦ {
+	color: inherit;
 }
 
 /* Suit red per theme */
@@ -83,11 +83,6 @@ html {
 }
 
 /* Sidebar */
-.sidebar .♠,
-.sidebar .♣ {
-	color: inherit;
-}
-
 .rust .sidebar {
 	--red: #f77;
 }
