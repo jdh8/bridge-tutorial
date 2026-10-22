@@ -9,6 +9,8 @@ cargo install mdbook mdbook-replace
 mdbook serve --open
 ```
 
+印刷版用 `python3 print.py` 排版（需要 pandoc、xelatex 加 xeCJK、rsvg-convert、Libertinus 和 Noto Serif CJK TC），輸出到 `book/bridge-tutorial.pdf`。
+
 推上 `main` 之後，GitHub Actions 會自動部署到 GitHub Pages。
 
 ## 寫作慣例

@@ -32,7 +32,16 @@ jobs:
         uses: taiki-e/cache-cargo-install-action@v3
         with:
           tool: mdbook-replace
+      - name: Install PDF toolchain  # ~80 s; cache-apt-pkgs-action restores faster but drops dependencies such as lmodern
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends pandoc texlive-xetex texlive-latex-recommended texlive-latex-extra texlive-lang-chinese fonts-noto-cjk librsvg2-bin
+      - name: Install Libertinus  # Ubuntu has no Libertinus package; fetch the release OTFs
+        run: |
+          curl -sLO https://github.com/alerque/libertinus/releases/download/v7.051/Libertinus-7.051.zip
+          unzip -qj Libertinus-7.051.zip '*.otf' -d ~/.fonts && fc-cache -f
       - run: mdbook build
+      - run: python3 print.py
       - uses: actions/upload-pages-artifact@v5
         with:
           path: book
