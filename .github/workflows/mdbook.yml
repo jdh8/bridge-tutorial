@@ -32,6 +32,7 @@ jobs:
         uses: taiki-e/cache-cargo-install-action@v3
         with:
           tool: mdbook-replace
+      - run: sudo apt-get update  # the action trusts the image's lists, which name ghostscript debs gone from the mirror
       - name: Install PDF toolchain  # explicit lmodern, plain-generic (ulem) and fonts-recommended (pzdr): neither apt nor the cache pulls them in
         uses: awalsh128/cache-apt-pkgs-action@v1
         with:
