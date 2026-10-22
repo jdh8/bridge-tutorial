@@ -106,3 +106,21 @@ function Header(el)
     return pandoc.RawBlock('latex', '\\addchap{' .. title .. '}\\label{' .. label(el.identifier) .. '}')
   end
 end
+
+-- Vulnerable seats in red, as on the website and on duplicate boards.  The dealer needs no
+-- mark: the auction table shows who called first.
+function Div(div)
+  local vul = div.classes:includes('vul-ns') and {false, true, false, true}
+           or div.classes:includes('vul-ew') and {true, false, true, false}
+  if not vul then return nil end
+  return div:walk{Table = function(t)
+    for _, r in ipairs(t.head.rows) do
+      for i, c in ipairs(r.cells) do
+        if vul[i] then
+          c.contents = {pandoc.Plain{pandoc.RawInline('latex', '\\textcolor{suitred}{'), table.unpack(c.contents[1].content), pandoc.RawInline('latex', '}')}}
+        end
+      end
+    end
+    return t
+  end}
+end
