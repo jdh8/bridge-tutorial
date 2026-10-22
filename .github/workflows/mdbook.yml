@@ -39,6 +39,7 @@ jobs:
           packages: pandoc texlive-xetex texlive-latex-recommended texlive-latex-extra texlive-lang-chinese fonts-noto-cjk librsvg2-bin lmodern texlive-plain-generic texlive-fonts-recommended
           version: 1.0
           execute_install_scripts: true  # TeX Live builds its formats in postinst
+      - run: sudo mktexlsr  # a restore runs postinst but not dpkg triggers, so TeX's file index misses the fonts
       - name: Install Libertinus  # Ubuntu has no Libertinus package; fetch the release OTFs
         run: |
           curl -sLO https://github.com/alerque/libertinus/releases/download/v7.051/Libertinus-7.051.zip
