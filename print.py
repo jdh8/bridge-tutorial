@@ -81,7 +81,8 @@ classoption: [11pt, oneside, numbers=noendperiod]
 papersize: a4
 mainfont: Libertinus Serif
 sansfont: Libertinus Sans
-CJKmainfont: Noto Serif CJK TC
+CJKmainfont: Noto Serif CJK TC  # pdffonts says NotoSerifCJKjp: the TTC's faces share one CFF FontName, but the glyphs are TC's
+# Not KR, despite its older printed forms: it sets ，。、 low-left, Taiwan centres them
 CJKoptions: BoldFont=Noto Serif CJK TC Bold
 linestretch: 1.25
 toc: true
