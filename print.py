@@ -4,7 +4,7 @@
 Needs pandoc, xelatex with xeCJK, rsvg-convert, Libertinus (fontconfig) and Noto Serif CJK TC.
 Output: book/bridge-tutorial.pdf; intermediates in build/.
 """
-import datetime, pathlib, posixpath, re, shutil, subprocess
+import datetime, os, pathlib, posixpath, re, shutil, subprocess
 
 SRC, OUT = pathlib.Path('src'), pathlib.Path('build')
 OUT.mkdir(parents=True, exist_ok=True)
@@ -78,7 +78,7 @@ papersize: a4
 mainfont: Libertinus Serif
 sansfont: Libertinus Sans
 CJKmainfont: Noto Serif CJK TC
-CJKsansfont: Noto Sans CJK TC
+CJKoptions: BoldFont=Noto Serif CJK TC Bold
 linestretch: 1.25
 toc: true
 toc-title: 目錄
@@ -105,6 +105,7 @@ for depth, title, path in toc:
 (OUT / 'book.md').write_text(''.join(doc))
 
 (OUT / 'preamble.tex').write_text(r'''
+\setCJKsansfont{Noto Sans CJK TC}[BoldFont=Noto Sans CJK TC Bold]  % XeTeX guesses Black from the weight TTCs; pandoc's CJKoptions is the serif's
 \xeCJKsetup{CJKecglue={}}  % the source already spaces CJK from Latin
 \usepackage{xeCJKfntef}
 \renewcommand\emph[1]{\CJKunderdot{#1}}  % 著重號, as the website's text-emphasis
@@ -135,9 +136,17 @@ subprocess.run(['pandoc', OUT / 'book.md', '-o', OUT / 'bridge-tutorial.tex', '-
 # \endlastfoot on the last row's page, where pandoc's lone \endlastfoot could start an empty continuation.
 tex = OUT / 'bridge-tutorial.tex'
 tex.write_text(tex.read_text().replace('\\bottomrule\\noalign{}\n\\endlastfoot', '\\bottomrule\\noalign{}\n\\endfoot\n\\bottomrule\\noalign{}\n\\endlastfoot'))
+# Hide Fedora's variable Noto CJK from XeTeX, which prefers it to the static TTCs xdvipdfmx can embed
+(OUT / 'fonts.conf').write_text('''<?xml version="1.0"?>
+<fontconfig>
+  <include>/etc/fonts/fonts.conf</include>
+  <selectfont><rejectfont><glob>*-VF.ttc</glob></rejectfont></selectfont>
+</fontconfig>
+''')
+env = dict(os.environ, FONTCONFIG_FILE=str((OUT / 'fonts.conf').resolve()))
 for _ in range(3):
     if subprocess.run(['xelatex', '-interaction=batchmode', '-halt-on-error', '-output-directory', OUT, tex],
-                      stdout=subprocess.DEVNULL).returncode:
+                      stdout=subprocess.DEVNULL, env=env).returncode:
         log = (OUT / 'bridge-tutorial.log').read_text(errors='replace').splitlines()
         raise SystemExit('\n'.join(log[-40:]))
 pathlib.Path('book').mkdir(exist_ok=True)
