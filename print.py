@@ -131,7 +131,7 @@ for depth, title, path in toc:
 \setcounter{secnumdepth}{-2}  % no section numbers in the front matter; restored at \mainmatter
 \usepackage{graphicx}
 \AtBeginDocument{\hypersetup{bookmarksdepth=2}}
-\subject{\includegraphics[height=3cm]{favicon.pdf}}
+\subject{\includegraphics[width=3cm,height=3cm]{favicon.pdf}}  % both: pandoc 3.1 defaults Gin width to the natural size
 '''.replace('favicon.pdf', str(OUT / 'favicon.pdf')))
 
 subprocess.run(['rsvg-convert', '-f', 'pdf', '-o', OUT / 'favicon.pdf', 'theme/favicon.svg'], check=True)
