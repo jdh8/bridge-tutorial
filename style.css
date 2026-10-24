@@ -131,3 +131,9 @@ html {
 		display: none;
 	}
 }
+
+/* Inline SVG figures: mdBook caps only img and video at the column width */
+.content svg {
+	max-width: 100%;
+	height: auto;
+}

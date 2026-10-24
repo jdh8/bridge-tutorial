@@ -42,12 +42,16 @@ def convert(depth, title, path):
             return f'#{fid(p)}--{anchor}' if anchor else f'#{fid(p)}'
         if p.endswith('.svg') and (SRC / p).exists():  # xelatex takes PDF, not SVG
             pdf = OUT / pathlib.Path(p).with_suffix('.pdf').name
-            subprocess.run(['rsvg-convert', '-f', 'pdf', '-o', pdf, SRC / p], check=True)
+            svg = (SRC / p).read_text().replace('<svg ', '<svg font-family="\'Libertinus Sans\', \'Noto Sans CJK TC\'" ', 1)  # the website's inline SVG inherits Open Sans; print matches the PDF's sans
+            # Libertinus caps are 0.63 em to Open Sans's 0.71, so shrink CJK labels to keep their web proportion
+            svg = re.sub(r'(<text[^>]*font-size=")([\d.]+)("[^>]*>[㐀-鿿]+</text>)',
+                         lambda m: f'{m[1]}{float(m[2]) * 0.63 / 0.71:.3g}{m[3]}', svg)
+            subprocess.run(['rsvg-convert', '-f', 'pdf', '-o', pdf], input=svg.encode(), check=True)
             return str(pdf)
         return str(SRC / p) if (SRC / p).exists() else target
 
     text = (SRC / path).read_text()
-    text = re.sub(r'<figure>\s*<img src="([^"]+)"[^>]*>\s*<figcaption>(.*?)</figcaption>\s*</figure>',
+    text = re.sub(r'<figure>\s*(?:<img src="|\{\{#include )([^"}]+)(?:"[^>]*>|\}\})\s*<figcaption>(.*?)</figcaption>\s*</figure>',
                   lambda m: f'![{m[2]}]({m[1]})', text, flags=re.S)
     text = re.sub(r'<summary>(.*?)</summary>', r'**\1**', text)  # <details> opens in print
     text = re.sub(r'<var>(.*?)</var>', r'$\1$', text)
