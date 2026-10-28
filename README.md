@@ -1,6 +1,6 @@
 # [橋牌入門：從規則到二蓋一](https://jdh8.github.io/bridge-tutorial/)
 
-給台大橋藝社新生的橋牌叫牌教材，零基礎也能讀。全書從規則和計分出發推導叫牌策略，最後帶出二蓋一架構，細節以 [Bridge World Standard 2017](https://www.bridgeworld.com/pages/readingroom/bws/bwscompletesystem.html) 為準。
+給台大橋藝社新生的橋牌叫牌教材，零基礎也能讀。全書從規則和計分出發推導叫牌策略，最後帶出二蓋一架構，細節以 [Bridge World Standard 2017](https://bridgeworld.store/pages/readingroom/bws/bwscompletesystem.html) 為準。
 
 ## 本機建置
 
